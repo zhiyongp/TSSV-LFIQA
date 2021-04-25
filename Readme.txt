@@ -28,7 +28,7 @@ II. Package Composition
 
 2. Functions (Subfunction)
 
-3. Libraries£¨Including SVR and tensor_toolbox£©
+3. Libraries (Including SVR and tensor_toolbox)
 
 4. Demo_SVR.m (Regression model)
 
