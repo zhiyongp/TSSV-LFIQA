@@ -7,7 +7,7 @@ Zhiyong Pan, Mei Yu, Gangyi Jiang, Haiyong Xu, and Yo-Sung Ho, " Combining Tenso
 The code was written in MATLAB 2017a, and tested on Windows 10/7.
 =======================================================================
 
-An exmaple ( Matlab codes, light field image and mos in Win5-LID[1]) are provided to demonstrate how to use the package. 
+An exmaple (Matlab codes, light field image and mos in Win5-LID[1])are provided to demonstrate how to use the package. 
 
 I. RUNNING CODE
 
@@ -28,13 +28,14 @@ II. Package Composition
 
 2. Functions (Subfunction)
 
-3. Libraries£¨Including SVR and tensor_toolbox£©
+3. LibrariesÂ£Â¨Including SVR and tensor_toolboxÂ£Â©
 
 4. Demo_SVR.m (Regression model)
 
 5. Demo_TSSV_LFIQA.m (Main Function)
 
-6. LN_dishes_50.bmp £¨Light field image in Win5-LID[1]£©
+6. LN_dishes_50.bmp (Â¨Light field image in Win5-LID[1]), downloaded in "https://pan.baidu.com/s/1_CNTo2kJxP1UMJxpuk7XRA"
+passwordï¼š4xr9
 
 7. model.mat (Model trained on Win5-LID[1])
 
