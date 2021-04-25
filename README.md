@@ -6,7 +6,6 @@ Zhiyong Pan, Mei Yu, Gangyi Jiang, Haiyong Xu, and Yo-Sung Ho, " Combining Tenso
 % Code provided by Zhiyong Pan 2020.10.23
 
 The code was written in MATLAB 2017a, and tested on Windows 10/7.
-=======================================================================
 
 An exmaple ( Matlab codes, light field image and mos in Win5-LID[1]) are provided to demonstrate how to use the package. 
 
