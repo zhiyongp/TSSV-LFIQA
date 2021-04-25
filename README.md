@@ -16,18 +16,18 @@ I. RUNNING CODE
 
 1. Feature Extration and Quality Prediction
 
-run Demo_TSSV_LFIQA.m 
+  run Demo_TSSV_LFIQA.m 
 
 2. Regression 
 
-run Demo_SVR.m
+  run Demo_SVR.m
 
 II. Package Composition
 
 1. Feature
 
-(1)Tensor Slice Spatial Feature (Including First_Grad_Feature.mat;First_Grad_Feature_Color.mat;Other_Entropy_Feature.mat) 
-(2)Singular Value Angular Feature (Including SinValue_inter_Feature.mat;SinValue_intra_Feature.mat)
+  (1)Tensor Slice Spatial Feature (Including First_Grad_Feature.mat;First_Grad_Feature_Color.mat;Other_Entropy_Feature.mat) 
+  (2)Singular Value Angular Feature (Including SinValue_inter_Feature.mat;SinValue_intra_Feature.mat)
 
 2. Functions (Subfunction)
 
@@ -38,7 +38,7 @@ II. Package Composition
 5. Demo_TSSV_LFIQA.m (Main Function)
 
 6. LN_dishes_50.bmp （Light field image in Win5-LID[1]）,downloaded in "https://pan.baidu.com/s/1_CNTo2kJxP1UMJxpuk7XRA"
-password：4xr9
+   password：4xr9
 
 7. model.mat (Model trained on Win5-LID[1])
 
@@ -46,7 +46,7 @@ password：4xr9
 
 9. Readme.txt(Manual)
 
-[1]L. Shi, S. Zhao, W. Zhou, and Z. Chen, "Perceptual evaluation of light field image," in Proc. IEEE Int. Conf. Imag. Process., Athens, Greece, 2018, pp. 41-45.
+  [1]L. Shi, S. Zhao, W. Zhou, and Z. Chen, "Perceptual evaluation of light field image," in Proc. IEEE Int. Conf. Imag. Process., Athens, Greece, 2018, pp. 41-45.
 
 -------------------------------------------------------------------------
 III. VERSION HISTORY
